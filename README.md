@@ -1,1 +1,1 @@
-# java-gui-hand-eye-coordination
+# javafx-hand-eye-coordination
